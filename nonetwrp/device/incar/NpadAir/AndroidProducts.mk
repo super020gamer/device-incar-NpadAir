@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_NpadAir.mk
+    $(LOCAL_DIR)/twrp_NpadAir.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_NpadAir-user \
-    omni_NpadAir-userdebug \
-    omni_NpadAir-eng
+    twrp_NpadAir-user \
+    twrp_NpadAir-userdebug \
+    twrp_NpadAir-eng
