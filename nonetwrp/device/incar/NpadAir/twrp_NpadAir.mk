@@ -16,7 +16,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 $(call inherit-product, device/incar/NpadAir/device.mk)
 
 PRODUCT_DEVICE := NpadAir
-PRODUCT_NAME := omn_NpadAir
+PRODUCT_NAME := twrp_NpadAir
 PRODUCT_BRAND := N-one
 PRODUCT_MODEL := NpadAir
 PRODUCT_MANUFACTURER := incar
